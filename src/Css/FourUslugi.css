@@ -1,0 +1,32 @@
+.FourUslugi {
+    background-image: url('../Img/Strelka.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    font-weight: bold;
+    height: 470px;
+    background-position-x: center;
+}
+
+#intro {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.Uslugi {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 270px;
+    margin-top: 120px;
+}
+
+#tex {
+    padding-top: 18px;
+}
+
+#repair {
+    padding-top: 5px;
+}
+
+#shini {
+    padding-top: 27px;
+}

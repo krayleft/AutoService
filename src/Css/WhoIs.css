@@ -1,0 +1,19 @@
+.aboutUs {
+    text-align: center;
+    width: 60%;
+}
+
+#whereIs {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#WhoIs {
+    font-size: 25px;
+}
+
+#HowIs {
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 30px;
+}

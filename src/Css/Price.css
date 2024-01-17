@@ -1,0 +1,47 @@
+.TextPrice {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#NashiUslugiText {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#NashiUslugiText2 {
+    font-size: 30px;
+}
+
+.card {
+    width: 24rem;
+}
+
+.PriceItem {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 490px;
+    margin-top: 30px;
+}
+
+.card-body {
+    height: 50px;
+    text-align: center;
+}
+
+.card-img-top {
+    padding-top: 10px;
+}
+
+.flex-button {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.pricebutton {
+    width: 135px;
+}
+
+.modal-body {
+    text-align: left;
+}

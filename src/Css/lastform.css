@@ -1,0 +1,23 @@
+.lastform {
+    margin-top: 100px;
+}
+
+.lastFormAllObject {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.introlastform {
+    text-align: center;
+} 
+
+.lastFormAllObject input {
+    border: 1px solid black;
+}
+
+#oferta {
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+}

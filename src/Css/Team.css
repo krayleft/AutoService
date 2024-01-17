@@ -1,0 +1,28 @@
+.IntroTextTeam {
+    text-align: center;
+    font-size: 30px;
+}
+
+.Team {
+    padding-top: 100px;
+}
+
+#myteam {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.PeopleTeam {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 550px;
+    margin-top: 120px;
+}
+
+.NumberOne, .NumberTwo, .NumberThree, .NumberFour {
+    text-align: center;
+}
+
+.TeamPhoto {
+    border-radius: 50%;
+}
